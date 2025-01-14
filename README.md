@@ -1,4 +1,4 @@
-# Automação de Agendamento de Refeições no SIGAA
+# Automação de Agendamento dp RU pelo SIGAA
 
 Esse projeto tem como objetivo automatizar o processo de agendamento de refeições no Restaurante Universitário (RU) através do SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas). Utilizando a biblioteca `pyautogui`, o programa simula ações de teclado e mouse para realizar o agendamento de forma eficiente e rápida.
 
